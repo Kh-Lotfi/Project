@@ -7,4 +7,7 @@ Acturellement j'ai ajouter qlq lignes
 A tester!!!!
 
 Une modification a été faite depuis la branche HTML-Version
-cela permetra de detecter les modications réaliser 
+cela permetra de detecter les modications réaliser
+
+
+un changement sur la branche readme 
